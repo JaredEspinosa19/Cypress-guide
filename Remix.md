@@ -1,0 +1,1 @@
+[https://applitools.com/blog/how-to-visually-test-remix-app-applitools-cypress/#h-setting-up-cypress]

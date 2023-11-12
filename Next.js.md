@@ -1,0 +1,1 @@
+nest [[https://blog.logrocket.com/end-to-end-testing-next-js-apps-cypress-typescript/]]
